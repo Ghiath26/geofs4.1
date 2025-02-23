@@ -3,8 +3,8 @@ geofs4.1version
 const OGFS= {}
 const browser={}
 const browse= ("OGFS flight simulator")
-const airplaneSpeed = 250; // Speed in knots
-airplaneSpeed = 300; 
+const airplaneSpeed = 500; // Speed in knots
+airplaneSpeed = 500; 
 // Include CesiumJS (Make sure to load Cesium.js in your HTML file)
 // You need an API key from Cesium Ion to access global imagery
 
